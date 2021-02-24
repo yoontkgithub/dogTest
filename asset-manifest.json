@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/dogTest/static/js/app.3ff5ae09.chunk.js",
+    "app.js.map": "/dogTest/static/js/app.3ff5ae09.chunk.js.map",
+    "runtime~app.js": "/dogTest/static/js/runtime~app.ca73932e.js",
+    "runtime~app.js.map": "/dogTest/static/js/runtime~app.ca73932e.js.map",
+    "static/js/2.25ff2349.chunk.js": "/dogTest/static/js/2.25ff2349.chunk.js",
+    "static/js/2.25ff2349.chunk.js.map": "/dogTest/static/js/2.25ff2349.chunk.js.map",
+    "favicon-16.png": "/dogTest/favicon-16.png",
+    "favicon-32.png": "/dogTest/favicon-32.png",
+    "favicon.ico": "/dogTest/favicon.ico",
+    "index.html": "/dogTest/index.html",
+    "manifest.json": "/dogTest/manifest.json",
+    "serve.json": "/dogTest/serve.json",
+    "static/js/2.25ff2349.chunk.js.LICENSE.txt": "/dogTest/static/js/2.25ff2349.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.ca73932e.js",
+    "static/js/2.25ff2349.chunk.js",
+    "static/js/app.3ff5ae09.chunk.js"
+  ]
+}
